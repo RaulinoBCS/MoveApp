@@ -1,0 +1,8 @@
+C:\Users\Raulino\Desktop\Move\Move\WindowsFormsApp1\bin\Debug\Move.exe.config
+C:\Users\Raulino\Desktop\Move\Move\WindowsFormsApp1\bin\Debug\Move.exe
+C:\Users\Raulino\Desktop\Move\Move\WindowsFormsApp1\bin\Debug\Move.pdb
+C:\Users\Raulino\Desktop\Move\Move\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Raulino\Desktop\Move\Move\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Raulino\Desktop\Move\Move\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Raulino\Desktop\Move\Move\WindowsFormsApp1\obj\Debug\Move.exe
+C:\Users\Raulino\Desktop\Move\Move\WindowsFormsApp1\obj\Debug\Move.pdb

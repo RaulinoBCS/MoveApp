@@ -1,0 +1,9 @@
+C:\Users\Raulino\Desktop\Move\Move\WindowsFormsApp1\bin\Release\Move.exe.config
+C:\Users\Raulino\Desktop\Move\Move\WindowsFormsApp1\bin\Release\Move.exe
+C:\Users\Raulino\Desktop\Move\Move\WindowsFormsApp1\bin\Release\Move.pdb
+C:\Users\Raulino\Desktop\Move\Move\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\Raulino\Desktop\Move\Move\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Raulino\Desktop\Move\Move\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Raulino\Desktop\Move\Move\WindowsFormsApp1\obj\Release\Move.exe
+C:\Users\Raulino\Desktop\Move\Move\WindowsFormsApp1\obj\Release\Move.pdb
+C:\Users\Raulino\Desktop\Move\Move\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojAssemblyReference.cache
